@@ -4,3 +4,4 @@
 
 # 시니어 
 # 프로젝트 개요
+![Image](https://github.com/user-attachments/assets/b9db6cbf-5491-47c5-aa1e-f0328f12a2b6)

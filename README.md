@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2cc6e96a-de04-4eca-b7b7-1bed6b0e6b65)![image](https://github.com/user-attachments/assets/89af774f-cd1c-43f0-9cb2-4f25d698c32c)![image](https://github.com/user-attachments/assets/3790c107-7328-4fd5-9099-aaeac647d91a)- 본 프로젝트는 제로베이스 데이터 취업 스쿨 과정의 일환으로 진행되었습니다.
+- 본 프로젝트는 제로베이스 데이터 취업 스쿨 과정의 일환으로 진행되었습니다.
 - 본 리드미 문서는 머신러닝 프로젝트 최종 발표 내용을 기반으로 작성되었습니다.
 - 팀원 : 이솔, 심소민, 정현봉 (팀원별 역할 구분 없이 전과정 함께 진행함)
 

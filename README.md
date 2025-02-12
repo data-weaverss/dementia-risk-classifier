@@ -20,6 +20,9 @@
 2. EDA 결과를 바탕으로 대상자의 치매 상태를 분류하는 머신러닝 모델을 개발한다.
 
 ## 4. 프로젝트 성과
-1. 데이터 전처리 및 Matplotlib, Seaborn 등 시각화 패키지 활용 탐색적 데이터 분석(EDA) : 
+1. 데이터 전처리 및 Matplotlib, Seaborn 등 시각화 패키지 활용 탐색적 데이터 분석(EDA) : [PPT 참조](https://github.com/data-weaverss/dementia-risk-classifier/blob/main/%EC%8B%9C%EB%8B%88%EC%96%B4%20%ED%99%9C%EB%8F%99%EC%88%98%EB%A9%B4%20%EB%9D%BC%EC%9D%B4%ED%94%84%EB%A1%9C%EA%B7%B8%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B8%B0%EB%B0%98%20%EC%B9%98%EB%A7%A4%20%EA%B3%A0%EC%9C%84%ED%97%98%EA%B5%B0%20%EC%98%88%EC%B8%A1.pdf)
+2. 피쳐 엔지니어링 및 머신러닝 모델 개발 : 
+
+   
 
 
